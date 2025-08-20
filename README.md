@@ -238,16 +238,5 @@ jobs:
 
 ---
 
-## Contribuciones
+## David Castellanos Lenguajes
 
-Si quieres que mejore:
-- Añadir `--trace` también en la versión en C (lo hago si lo pides).  
-- Exportar la función de validación como script separado (`check_conf.py`).  
-- Incluir un modo interactivo (preguntar cadenas en stdin).  
-- Añadir conversión desde JSON/CSV para la conf.
-
----
-
-## Licencia
-
-Este proyecto está bajo la **Licencia MIT** (archivo `LICENSE` incluido).
